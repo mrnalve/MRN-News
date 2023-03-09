@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* nav part starts */
+#navBar .navbar-brand{
+    font-size: 32px;
+    font-weight: 700;
+}
+#navBar .nav-item{
+    padding: 8px 10px;
+    font-size: 18px;
+}
+/* nav part ends */
